@@ -25,9 +25,9 @@
    A float variable can store up to a precision of 6.  
    A double variable can store up to a precision of 15.
 
-7. What are modifiers or qualifiers?
-   Modifiers or qualifiers are used to modify the size and range of the data that various data types can hold. It is primarily used to modify the size, and sign of the data.
-   There are 2 types of modifiers
+7. What are modifiers or qualifiers?  
+   Modifiers or qualifiers are used to modify the size and range of the data that various data types can hold. It is primarily used to modify the size, and sign of the data.  
+   There are 2 types of modifiers  
    a. Sign modifiers - signed, unsigned  
    b. Size modifiers - short, long
 
