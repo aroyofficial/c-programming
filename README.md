@@ -31,4 +31,8 @@
    a. Sign modifiers - signed, unsigned  
    b. Size modifiers - short, long
 
-8. 
+8. short modifier is applicable with which datatypes?  
+   short modifier is only used with int datatype. A short int has a size of 2 bytes (half of the size of an int).  
+
+9. long modifier is applicable with which datatypes?  
+   long modifier is used with both int and double datatype. It doubles the size that a datatype can hold.
