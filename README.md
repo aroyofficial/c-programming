@@ -10,7 +10,7 @@
    A library file is written in binary format that contains function definitions. These files have an extension of '.dll'.
 
 4. What are the different datatypes in C? Give examples.  
-   There are 3 types of datatypes in C.
-   a. Primitive datatype
-   b. Non-Primitive datatype
-   c. User-defined datatype
+   There are 3 types of datatypes in C.  
+   a. <u>Primitive datatype</u>  
+   b. <u>Non-Primitive datatype</u>  
+   c. <u>User-defined datatype</u>  
