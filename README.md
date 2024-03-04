@@ -11,6 +11,6 @@
 
 4. What are the different datatypes in C? Give examples.  
    There are 3 types of datatypes in C.  
-   a. <u>Primitive datatype</u>  
-   b. <u>Non-Primitive datatype</u>  
-   c. <u>User-defined datatype</u>  
+   a. <ins>Primitive datatype</ins>  
+   b. <ins>Non-Primitive datatype</ins>  
+   c. <ins>User-defined datatype</ins>  
