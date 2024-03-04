@@ -6,10 +6,10 @@
 2. What is a header file? Give an example.  
    A header file is written in text format that contains function and macro declarations. These files have an extension of '.h'. e.g.- 'stdio.h'.  
 
-3. What is a library file? Give an example.
+3. What is a library file? Give an example.  
    A library file is written in binary format that contains function definitions. These files have an extension of '.dll'.
 
-4. What are the different datatypes in C? Give examples.
+4. What are the different datatypes in C? Give examples.  
    There are 3 types of datatypes in C.
    a. Primitive datatype
    b. Non-Primitive datatype
