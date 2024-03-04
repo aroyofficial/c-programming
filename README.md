@@ -36,3 +36,5 @@
 
 9. long modifier is applicable with which datatypes?  
    long modifier is used with both int and double datatype. It doubles the size that a datatype can hold.
+   long int (8 bytes)
+   long long int (
