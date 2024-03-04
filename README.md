@@ -21,7 +21,7 @@
    float (8 bytes)  
    double (16 bytes)  
 
-6. Float and double variable can store up to how much precision?
+6. Float and double variable can store up to how much precision?  
    A float variable can store up to a precision of 6.  
    A double variable can store up to a precision of 15.
 
