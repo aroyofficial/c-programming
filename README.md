@@ -14,3 +14,11 @@
    a. The pre-defined datatypes in the C programming language are known as Primitive datatypes. e.g.- char, int, float, double.  
    b. Datatypes that are derived from the primitive types are known as Non-Primitive datatypes. e.g.- array, pointer.  
    c. Datatypes that are defined by the user to store the data accordingly are known as User-defined datatypes. e.g.- structure, union, enum.  
+
+5. What are the sizes of different primitive datatypes?
+   char (1 byte)  
+   int (4 bytes)  
+   float (8 bytes)  
+   double (16 bytes)  
+
+6. 
