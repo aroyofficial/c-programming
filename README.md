@@ -15,10 +15,14 @@
    b. Datatypes that are derived from the primitive types are known as Non-Primitive datatypes. e.g.- array, pointer.  
    c. Datatypes that are defined by the user to store the data accordingly are known as User-defined datatypes. e.g.- structure, union, enum.  
 
-5. What are the sizes of different primitive datatypes?
+5. What are the sizes of different primitive datatypes?  
    char (1 byte)  
    int (4 bytes)  
    float (8 bytes)  
    double (16 bytes)  
 
-6. 
+6. Float and double variable can store up to how much precision?
+   A float variable can store up to a precision of 6.  
+   A double variable can store up to a precision of 15.
+
+7. 
