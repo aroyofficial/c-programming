@@ -11,6 +11,6 @@
 
 4. What are the different datatypes in C? Give examples.  
    There are 3 types of datatypes in C.  
-   a. The pre-defined datatypes in the C programming language are known as <ins>Primitive datatypes</ins>. e.g.- char, int, float, double.  
+   a. The pre-defined datatypes in the C programming language are known as Primitive datatypes. e.g.- char, int, float, double.  
    b. <ins>Non-Primitive datatype</ins>  
    c. <ins>User-defined datatype</ins>  
